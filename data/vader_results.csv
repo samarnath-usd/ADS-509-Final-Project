@@ -1,0 +1,2 @@
+model,accuracy,macro_f1
+VADER Baseline,0.551,0.4815
